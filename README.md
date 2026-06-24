@@ -4,8 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tousan1118&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousan1118&layout=donut)](https://github.com/tousan1118/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tousan1118&theme=nord&no-frame=true)](https://github.com/tousan1118/github-profile-trophy)
-
 <!--
 **tousan1118/tousan1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
